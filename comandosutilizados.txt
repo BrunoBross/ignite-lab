@@ -1,0 +1,9 @@
+- npm create vite@latest    // Inicializar projeto com Vite
+
+- npm i tailwindcss postcss autoprefixer -D    // Instalar bibliotecas
+
+- npx tailwindcss init -p    // Gerar configurações do TailWindCss
+
+- npm i @apollo/client graphql   // Instalar bibliotecas
+
+- npm run dev    // Executar projeto
